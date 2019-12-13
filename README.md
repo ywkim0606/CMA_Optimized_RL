@@ -31,7 +31,7 @@ Go to the link to see the results yourself!
 * [LunarLandar-v2 environment](https://www.youtube.com/watch?v=A6YEB_7PSgo)
 
 ## Create Conda Environment
-Create the environment from the 'cmaes.yml' file:
+Create the environment from the `cmaes.yml` file:
 ```bash
 conda env create -f cmaes.yml
 ```
