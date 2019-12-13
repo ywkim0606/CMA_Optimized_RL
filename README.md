@@ -24,7 +24,7 @@ Useful links:
 * [stable-baseline](https://stable-baselines.readthedocs.io/en/master/index.html)
 
 ## Result
-> Agents trained with hyperparameters optimzied by CMA-ES performs significantly better than the baseline DQN from [stable-baseline](https://stable-baselines.readthedocs.io/en/master/index.html)
+> Agents trained with hyperparameters optimzied by CMA-ES performs significantly better than the baseline DQN from [stable-baseline](https://stable-baselines.readthedocs.io/en/master/index.html). For more explanation refer to the poster `Tokyo_Tech_Poster.pdf`
 
 Go to the link to see the results yourself!
 * [Cartpole environment](https://www.youtube.com/watch?v=7nTh392Lwms)
