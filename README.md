@@ -35,4 +35,3 @@ Create the environment from the `cmaes.yml` file:
 ```bash
 conda env create -f cmaes.yml
 ```
-
