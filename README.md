@@ -1,4 +1,4 @@
-# CMA_Optimized_RL
+# CMA-ES_Optimized_RL
 
 Covariance Matrix Adaptation Evolutionary Strategy (CMA-ES) for hyperparameter optimization on Deep-Q-Network
 
